@@ -32,7 +32,7 @@
     "express": "^4.17.1",
     "klaw-sync": "^6.0.0",
     "mysql2": "^1.6.5",
-    "sequelize": "^5.8.8"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
