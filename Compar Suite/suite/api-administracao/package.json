@@ -29,7 +29,7 @@
   "homepage": "https://github.com/eduardomendoncabraga/node-teste#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "klaw-sync": "^6.0.0",
     "mysql2": "^1.6.5",
     "sequelize": "^5.8.8"
